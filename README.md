@@ -3,10 +3,7 @@
 Atualmente estou focando os meus estudos em desenvolvimento de software e expandindo meu conhecimento em tecnologias web e de programação.
 
 ## 🚀 Tecnologias que estou aprendendo:
-
-![Java](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io) 
+ 
 <!-- Badge do Java com o ícone oficial -->
 ![Java](https://shields.io)
 
