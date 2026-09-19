@@ -4,9 +4,11 @@ Atualmente estou focando os meus estudos em desenvolvimento de software e expand
 
 ## 🚀 Tecnologias que estou aprendendo:
 
-<img src="https://shields.io" alt="Java" />
-<img src="https://shields.io" alt="Python" />
-<img src="https://shields.io" alt="HTML5" />
+<p align="left">
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Java" />
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Python" />
+  <img src="https://jsdelivr.net" width="50" height="50" alt="HTML5" />
+</p>
 
 ---
 
