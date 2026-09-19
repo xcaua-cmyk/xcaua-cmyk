@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Cauã! 👋
 
-<!--
-**xcaua-cmyk/xcaua-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou focando os meus estudos em desenvolvimento de software e expandindo meu conhecimento em tecnologias web e de programação.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://shields.io)
+![Python](https://shields.io)
+![HTML5](https://shields.io)
+
+-
+-
+
+## 🌐 Contato
+
+Se quiser trocar uma ideia, me encontre no Instagram:
+
+[![Instagram](https://shields.io)](https://www.instagram.com/ca_rsx/)
