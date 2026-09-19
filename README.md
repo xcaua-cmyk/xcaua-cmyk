@@ -16,6 +16,6 @@ Atualmente estou focando os meus estudos em desenvolvimento de software e expand
 
 Se quiser trocar uma ideia, me encontre no Instagram:
 
-<a href="https://instagram.com" target="_blank">
-  <img src="https://shields.io" alt="Instagram" />
+<a href="https://www.instagram.com/ca_rsx/" target="_blank">
+  <img src="https://www.instagram.com/ca_rsx/" width="50" alt="Instagram" />
 </a>
