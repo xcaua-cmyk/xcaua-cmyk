@@ -4,13 +4,9 @@ Atualmente estou focando os meus estudos em desenvolvimento de software e expand
 
 ## 🚀 Tecnologias que estou aprendendo:
  
-<!-- Badge do Java atualizado -->
+<!-- Badges com quebra de cache (?v=1) -->
 ![Java](https://shields.io)
-
-<!-- Badge do Python atualizado -->
 ![Python](https://shields.io)
-
-<!-- Badge do HTML5 atualizado -->
 ![HTML5](https://shields.io)
 
 
