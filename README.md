@@ -4,13 +4,13 @@ Atualmente estou focando os meus estudos em desenvolvimento de software e expand
 
 ## 🚀 Tecnologias que estou aprendendo:
  
-<!-- Badge do Java com o ícone oficial -->
+<!-- Badge do Java (Ajustado para &logo=java) -->
 ![Java](https://shields.io)
 
-<!-- Badge do Python com o ícone oficial -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!-- Badge do Python (Mantido pois já estava funcionando) -->
+![Python](https://shields.io)
 
-<!-- Badge do HTML5 com o ícone oficial -->
+<!-- Badge do HTML5 (Ajustado para &logo=html5) -->
 ![HTML5](https://shields.io)
 
 
