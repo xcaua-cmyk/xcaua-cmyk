@@ -19,3 +19,4 @@ Se quiser trocar uma ideia, me encontre no Instagram:
 <a href="https://www.instagram.com/ca_rsx/" target="_blank">
   <img src="https://www.instagram.com/ca_rsx/" width="50" alt="Instagram" />
 </a>
+<img width="736" height="736" alt="test" src="https://github.com/user-attachments/assets/864cfac6-d799-4223-927c-a54088447e3e" />
