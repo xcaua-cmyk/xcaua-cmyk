@@ -3,20 +3,17 @@
 Atualmente estou focando os meus estudos em desenvolvimento de software e expandindo meu conhecimento em tecnologias web e de programação.
 
 ## 🚀 Tecnologias que estou aprendendo:
- 
-<!-- Badges com quebra de cache (?v=1) -->
-![Java](https://shields.io)
-![Python](https://shields.io)
-![HTML5](https://shields.io)
 
+<img src="https://shields.io" alt="Java" />
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="HTML5" />
 
-
-
--
--
+---
 
 ## 🌐 Contato
 
 Se quiser trocar uma ideia, me encontre no Instagram:
 
-[![Instagram](https://shields.io)](https://www.instagram.com/ca_rsx/)
+<a href="https://instagram.com" target="_blank">
+  <img src="https://shields.io" alt="Instagram" />
+</a>
